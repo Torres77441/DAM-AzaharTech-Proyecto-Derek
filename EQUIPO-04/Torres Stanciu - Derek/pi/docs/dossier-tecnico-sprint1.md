@@ -46,6 +46,8 @@ Ninguna
 1. Oracle Java Documentation: `https://docs.oracle.com/en/java/javase/21/`
 2. Guía oficial de programación del módulo proyecto intermodular (GVA).
 
+---
+
 ### Guion de exposición: Sprint Review v0.1 (3 minutos)
 * **00:00 - 00:30 (Presentación y proyecto).** Saludo formal, nombre del proyecto, cliente de la bolsa de proyectos y problema crítico que resolvemos.
 * **00:30 - 02:00 (Demostración práctica en directo).** Ejecución de `ControlAccesoQR.java` en IntelliJ IDEA, introducción de datos reales por consola y explicación de los resultados calculados con `printf`.
