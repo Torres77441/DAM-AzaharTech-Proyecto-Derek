@@ -11,5 +11,5 @@ target/
 .DS_Store
 Thumbs.db
 
-# Exclusiones de archivos temporales de registro
+# Exclusion de archivos temporales de registro
 *.log
