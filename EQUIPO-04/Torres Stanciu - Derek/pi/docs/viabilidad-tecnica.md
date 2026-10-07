@@ -2,7 +2,7 @@
 **Consultora:** AzaharTech Software Consulting  
 **Proyecto:** Simulador de fisicas 2D 
 **Desarrollador/a:** Torres Stanciu, Derek 
-**Fecha:** 25 de septiembre de 2026  
+**Fecha:** 7 de Octubre de 2026  
 **Versión:** 1.0 (Sprint 1)  
 
 ---
@@ -38,9 +38,9 @@ El sistema se descompone en tres subsistemas funcionales coordinados:
 
 * **Entorno de Ejecución:** Java SE 21 (LTS) garantizando portabilidad multiplataforma mediante la JVM.
 * **Requisitos mínimos de hardware:**
-    * Procesador con arquitectura x86_64 o ARM64.
-    * Memoria RAM mínima: 2 GB (óptima: 4 GB para entorno de pruebas).
-    * Espacio en disco: 500 MB libres para instalación del JDK y logs.
+    * Procesador con arquitectura ARM64.
+    * Memoria RAM mínima: 3 GB (óptima: 6 GB para entorno de pruebas).
+    * Espacio en disco: 50 MB libres para instalación del JDK y logs.
 * **Análisis de restricciones del Sprint 1:** Se prescinde de bases de datos externas en esta fase inicial; el procesamiento se realiza en memoria volátil de forma secuencial y transparente.
 
 ---
