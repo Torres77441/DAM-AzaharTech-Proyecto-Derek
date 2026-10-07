@@ -1,0 +1,12 @@
+# Exclusiones de IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Exclusiones de compilación y Maven
+target/
+*.class
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
