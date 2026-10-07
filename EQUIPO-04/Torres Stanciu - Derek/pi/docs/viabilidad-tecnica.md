@@ -13,8 +13,8 @@ El sistema se descompone en tres subsistemas funcionales coordinados:
 ```text
 +-----------------------------------------------------------------------+
 |                       BLOQUE 1: ENTRADA DE DATOS                      |
-|  - Captura interactiva por teclado mediante clase Scanner             |
-|  - Parámetros de identificación de cliente y volumen de demanda       |
+|  - Inicio de la aplicacion dandole click                              |
+|  - Parámetros de identificación de cliente                            |
 +-----------------------------------┬-----------------------------------+
                                     |
                                     v
