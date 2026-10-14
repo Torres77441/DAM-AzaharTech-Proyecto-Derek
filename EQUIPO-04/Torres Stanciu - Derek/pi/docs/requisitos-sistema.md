@@ -2,7 +2,7 @@
 **Consultora:** AzaharTech Software Consulting  
 **Proyecto Seleccionado:** Simulador de fisicas 2D  
 **Cliente / Sector:** Riot Games  
-**Desarrollador/a:** Derek Torres Stanciu  
+**Desarrollador/a:** Torres Stanciu, Derek  
 **Fecha:** 14 de octubre de 2026  
 **Versión:** 1.0 (Sprint 2)
 
