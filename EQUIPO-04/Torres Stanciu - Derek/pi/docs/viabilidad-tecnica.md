@@ -1,37 +1,18 @@
 # Estudio de viabilidad técnica y arquitectura del sistema
 **Consultora:** AzaharTech Software Consulting  
-**Proyecto:** Simulador de fisicas 2D 
-**Desarrollador/a:** Torres Stanciu, Derek 
+**Proyecto:** Simulador de fisicas 2D
+**Desarrollador/a:** Torres Stanciu, Derek
 **Fecha:** 7 de Octubre de 2026  
-**Versión:** 1.0 (Sprint 1)  
+**Versión:** 1.0 (Sprint 1)
 
 ---
 
 ## 1. Diagrama de bloques funcional del sistema
 El sistema se descompone en tres subsistemas funcionales coordinados:
 
-```text
-+-----------------------------------------------------------------------+
-|                       BLOQUE 1: ENTRADA DE DATOS                      |
-|  - Inicio de la aplicacion dandole click                              |
-|  - Parámetros de identificación de cliente                            |
-+-----------------------------------┬-----------------------------------+
-                                    |
-                                    v
-+-----------------------------------------------------------------------+
-|                    BLOQUE 2: PROCESAMIENTO Y CÁLCULO                  |
-|  - Módulo Java en OpenJDK 21                                          |
-|  - Descomposición de unidades mediante división entera y módulo (%)   |
-|  - Fórmulas de recargos económicos y casting explícito a decimal      |
-+-----------------------------------┬-----------------------------------+
-                                    |
-                                    v
-+-----------------------------------------------------------------------+
-|                   BLOQUE 3: SALIDA DE INFORMACIÓN                     |
-|  - Consola de usuario formateada mediante System.out.printf()         |
-|  - Resumen tabular con columnas de ancho fijo y decimales acotados    |
-+-----------------------------------------------------------------------+
+![Diagrama del Simulador de Físicas 2D](img/diagrama-bloques.png)
 
+```text
 ---
 
 ## 2. Estudio de viabilidad técnica
