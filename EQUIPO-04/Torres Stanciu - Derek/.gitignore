@@ -1,26 +1,11 @@
-# ====================================================================
-# exclusiones oficiales de azahartech software
-# ====================================================================
+# Directorio de construcción y binarios de Maven
+target/
 
-# 1. entorno de desarrollo (IntelliJ IDEA)
+# Metadatos del entorno de desarrollo (IntelliJ IDEA)
 .idea/
 *.iml
-*.iws
-*.ipr
 out/
 
-*.class
-target/
-build/
-*.jar
-*.war
-
-# 3. archivos del sistema operativo
+# Archivos de índices del sistema operativo
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# 4. archivos de registro y temporales
-*.log
-*.tmp
-*.bak
